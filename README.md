@@ -1,6 +1,8 @@
 # Delta-Parallel-Robot
 Delta Parallel Robot for Article Sorting
 
+Delta parallel robot is used for sorting of articles based on the barcode data.A graphical user interface is also developed for manual control of the robot.
+
 Connect the data cable from the arduino to the usb port.
 Install Arduino IDE,if not already installed.
 Upload the arduino code into the arduino of the delta parallel robot(delta arduino code.ino).
